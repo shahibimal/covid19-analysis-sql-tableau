@@ -29,7 +29,7 @@ The SQL results were connected to Tableau to create an interactive dashboard sho
 - Vaccination progress over time
 
 🔗 **Live Dashboard:**  
-👉 *(Add Tableau Public link here)*
+👉 *https://public.tableau.com/app/profile/bimal.shahi/viz/covid19analysisdashboard/Dashboard1*
 
 ## 📌 Notes
 - Dataset timeline is up to 2021.
