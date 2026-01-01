@@ -1,18 +1,37 @@
 # COVID-19 Data Analysis Project 🌍
 
-## 💻 Project Overview
-As a **Computer Engineering Student**, I developed this project to demonstrate a complete data lifecycle. I transformed raw global health data into an interactive visual story using a structured technical pipeline.
+## 📌 Project Overview
+This project analyzes global COVID-19 cases, deaths, and vaccination trends using SQL and Tableau.  
+It was created as a **portfolio project** to practice real-world data analysis skills such as querying, data transformation, and visualization.
 
-## 🏗️ Project Structure
-* **[sql/](./sql/):** Contains the T-SQL scripts for data exploration, including CTEs, Joins, and Window Functions.
-* **[data/](./data/):** Cleaned datasets (originally processed in Excel).
-* **[tableau/](./tableau/):** High-resolution export of the final dashboard.
-* **[screenshots/](./screenshots/):** Visual evidence of the SQL environment and query results.
+## 📁 Project Structure
+- **sql/** – SQL queries used for data exploration and analysis (joins, CTEs, window functions).
+- **data/** – COVID-19 datasets (Excel format) used for analysis.
+- **tableau/** – Tableau dashboard files and exported visuals.
+- **screenshots/** – Screenshots of SQL queries and results.
 
-## 🛠️ The Technical Pipeline
-1. **Pre-processing:** Cleaned raw data in **Excel** to handle missing values and remove redundant features.
-2. **Exploration:** Imported data into **MS SQL Server** for advanced querying.
-3. **Visualization:** Connected the processed SQL data to **Tableau** for trend analysis.
+## 🛠️ Tools & Technologies
+- **Microsoft Excel** – Basic data inspection and formatting  
+- **MS SQL Server** – Data analysis using T-SQL  
+- **Tableau** – Data visualization and dashboard creation  
 
-## 🔗 Live Dashboard
-👉 **[View the Interactive Tableau Dashboard Here](YOUR_LINK_HERE)**
+## 🔍 Key Analysis Performed
+- Infection rate and death percentage by country
+- Countries with highest infection and death counts
+- Global COVID-19 trends over time
+- Vaccination progress using rolling totals
+- Population vs vaccination coverage analysis
+
+## 📊 Visualization
+The SQL results were connected to Tableau to create an interactive dashboard showing:
+- Global trends
+- Country-level comparisons
+- Vaccination progress over time
+
+🔗 **Live Dashboard:**  
+👉 *(Add Tableau Public link here)*
+
+## 📌 Notes
+- Dataset timeline is up to 2021.
+- Project is based on publicly available COVID-19 data.
+- This project focuses on **learning and demonstrating SQL + Tableau skills**.
