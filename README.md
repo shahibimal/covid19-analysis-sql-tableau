@@ -1,4 +1,4 @@
-# COVID-19 Data Analysis Project 🌍
+# COVID-19 Analysis Project 🌍
 
 ## 📌 Project Overview
 This project analyzes global COVID-19 cases, deaths, and vaccination trends using SQL and Tableau.  
