@@ -7,8 +7,8 @@ It was created as a **portfolio project** to practice real-world data analysis s
 ## 📁 Project Structure
 - **[sql](sql)/** – SQL queries used for data exploration and analysis (joins, CTEs, window functions).
 - **[data](data)/** – COVID-19 datasets (Excel format) used for analysis.
-- **[tableau](tableau)/** – Tableau dashboard files and exported visuals.
-- **[screenshots](screenshots)/** – Screenshots of SQL queries and results.
+- **[dashboard](dashboard)/** – Tableau dashboard files and exported visuals.
+- **[images](images)/** – Screenshots of SQL queries and results.
 
 ## 🛠️ Tools & Technologies
 - **Microsoft Excel** – Basic data inspection and formatting  
